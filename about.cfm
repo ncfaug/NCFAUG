@@ -52,8 +52,13 @@
 
 			<article id="shawn">
 				<h2>Shawn Oden - Co-Manager</h2>
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit.</p>
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit.</p>
+				
+				<p>For his entire life, Shawn has been a geek and a tinkerer. He always loved taking things apart and putting them back together. He taught himself how to write BASIC on the Commodore 64. But, like many young boys, he didn't follow his mama's advice to become a programmer. He became a pilot instead.</p>
+				<p>Despite getting a degree in Aviation, teaching others to fly and beginning a career in the airline industry, Shawn never lost his inner geek. After some small HTML projects, around 2000 an opportunity opened up to fill in for a vacationing developer at his brother's web development company, so Shawn took it. He learned just enough Java to tell the World "Hello" before being switched over to a Cold Fusion (Allaire) project. Shawn rediscovered his inner geek and left the airline life to become a code monkey. He's never looked back.</p>
+				<p>In his second career, Shawn has worn a myriad of hats. He's been a coder, a business intelligence reporter, a server administrator, a hardware repair technician, a support technician, a shipper and even an office mover. He worked with tablet computers before they were even called tablets, and he can wire Cat-5 cable with his eyes closed. If a task is thrown in front of him, he will take care of it.</p>
+				<p>Shawn has spent the last few years honing his SQL skills, but at heart, he's always been a ColdFusion developer. He's been a member of the Nashville ColdFusion User Group since 2005, when the company he worked for hosted it. He's seen the group (and the language) change quite a bit over the years, but when his friend Brett asked him to help rebuild the group, Shawn jumped at the opportunity. Shawn hopes to share his love for the ColdFusion language with others.</p> 
+
+				
 			</article>
 
 			<article id="bubbles">
