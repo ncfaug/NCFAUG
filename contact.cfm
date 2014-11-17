@@ -25,7 +25,7 @@
 			<p class="mbottom">Would you like to know more?</p>
 
 			<address class="mbottom">
-				<h5>Nashville ColdFusion Abode User Group</h5>
+				<h5>Nashville ColdFusion Adobe User Group</h5>
 				1900 Church Street<br >
 				Suite 300<br >
 				Nashville,TN 37203<br >
@@ -42,8 +42,8 @@
 			</p>
 			<p>
 				<h6>Monthly Meeting: </h6>
-				Fourth Thursdays Of The Month <br >
-				06:30pm - 8:30pm
+				Fourth Thursday Of The Month <br >
+				6:30pm - 8:30pm
 			</p>
 
 		</aside>
