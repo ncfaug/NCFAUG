@@ -4,7 +4,7 @@
 		<cfargument name="form" required="true" />
 
 		<cfif len(trim('arguments.form.message')) EQ 0>
-			<cfset rtnAns.msg = 'Please use a valid email address.'/>
+			<cfset rtnAns.msg = 'Please enter a message.'/>
 			<cfreturn rtnAns/>
 		</cfif>
 
